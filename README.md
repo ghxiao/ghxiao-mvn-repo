@@ -3,7 +3,7 @@ A maven repository for my research. Most of the libraries here are Semantic Web 
 To use it, put the following into the pom.xml:
 
 
-```
+```xml
 <repositories>
   	<repository>
 			<id>ghxiao-mvn-repo-snapshots</id>
